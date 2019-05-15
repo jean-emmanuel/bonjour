@@ -1,13 +1,13 @@
 {
   "name": "bonjour",
-  "version": "3.5.1",
+  "version": "4.0.0",
   "description": "A Bonjour/Zeroconf implementation in pure JavaScript (for HAP)",
   "main": "index.js",
   "dependencies": {
     "array-flatten": "^2.1.0",
     "deep-equal": "^1.0.1",
     "dns-equal": "^1.0.0",
-    "dns-txt": "^2.0.2",
+    "dns-txt": "github:jean-emmanuel/loop-protect#v2.0.3",
     "multicast-dns": "pevecyan/multicast-dns",
     "multicast-dns-service-types": "^1.1.0"
   },
@@ -43,8 +43,4 @@
     "url": "https://github.com/watson/bonjour/issues"
   },
   "homepage": "https://github.com/watson/bonjour",
-  "coordinates": [
-    55.68250900965318,
-    12.586377442991648
-  ]
 }
