@@ -8,7 +8,7 @@
     "deep-equal": "^1.0.1",
     "dns-equal": "^1.0.0",
     "dns-txt": "github:jean-emmanuel/dns-txt#v2.0.3",
-    "multicast-dns": "pevecyan/multicast-dns",
+    "multicast-dns": "github:jean-emmanuel/multicast-dns",
     "multicast-dns-service-types": "^1.1.0"
   },
   "devDependencies": {
